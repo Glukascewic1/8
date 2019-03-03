@@ -35,7 +35,7 @@ So you would have realised that the chance of you getting a 4 instead of a 3 is 
 As far as I know, no one has ever had a 6, and you'll know if you have got one, because they are red.
 
 
-The impossible dimension is approaching, be aware.
+<b><i>The impossible dimension is approaching, be aware.</i></b>
 
 <i>7s spawn roughly 1 in every 5000 5s</i>
 
