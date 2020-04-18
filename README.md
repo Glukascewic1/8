@@ -1,7 +1,7 @@
-# 8
+# 9
 
-8 is a game where you start with one 1 but the objective is to get two 8s and merge them.
-
+9 is a game where you start with one 1 but the objective is to get two 8s and merge them.
+When two tiles with the same number touch, they <b>add 1 more number.</b>
 
 Most of the time, the game will spawn a 1 after every move you make.
 If you hold down the up arrow for long enough, you might get a 2 to spawn.
@@ -44,8 +44,12 @@ But,
 
 <i>8s are only 1 in every 10 7s</i>
 
+and,
 
-The overall chance that the tile you are about to receive is a 7 or 8 is 50000 x 5000 or <i>1 in every 250000000 moves.
+<i>9s are only 1 in every 2 8s</i>
 
 
-<b>YOU ARE NEVER GOING TO GET ANY 7s OR 8s</b>
+The overall chance that the tile you are about to receive is a 7 or 8 or 9 is 100000 x 50000 x 5000 or <i>1 in every 25000000000000 moves.</i>
+
+
+<b>YOU ARE NEVER GOING TO SPAWN ANY 7s OR 8s OR 9s</b>
